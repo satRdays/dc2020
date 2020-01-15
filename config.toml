@@ -262,7 +262,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # Replace them with your own too.
     # Suggestion: Image size should be at least 360px*360px or the alignment might be affected.
     [[params.team.members]]
-      img = "O_Briant_Kelly.jpg"
+      img = "O_Briant_Kelly_resized.jpg"
       name = "Kelly O'Briant"
       position = ""
       reportsTo = ""
@@ -280,7 +280,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       ]
 
     [[params.team.members]]
-      img = "Ortiz_Ulloa_Benjamin.jpg"
+      img = "Ortiz_Ulloa_Benjamin_resized.jpg"
       name = "Benjamin Ortiz Ulloa"
       bio = """Co-organizer of [Data Viz DC](https://www.meetup.com/Data-Visualization-DC/) and [Data Community DC](https://twitter.com/datacommunitydc?lang=en)"""
       position = ""
