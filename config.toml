@@ -264,7 +264,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     [[params.team.members]]
       img = "O_Briant_Kelly.jpg"
       name = "Kelly O'Briant"
-#      position = "Organiser Position 1"
+      position = ""
       reportsTo = ""
 #      livesIn = "[Munich, Germany](#some-maps-url)"
 #      scope = [
@@ -276,19 +276,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       bio = """Co-organizer [R-Ladies DC](https://twitter.com/RLadiesDC)"""
       social = [
         ["fa-twitter", "https://twitter.com/kellrstats"],
-        ["fa-github", "https://github.com/kellobri"],
-#        ["fa-linkedin", "#"]
+        ["fa-github", "https://github.com/kellobri"]
       ]
 
     [[params.team.members]]
       img = "Ortiz_Ulloa_Benjamin.jpg"
       name = "Benjamin Ortiz Ulloa"
       bio = """Co-organizer of [Data Viz DC](https://www.meetup.com/Data-Visualization-DC/) and [Data Community DC](https://twitter.com/datacommunitydc?lang=en)"""
-#      position = "Organiser Position 2"
+      position = ""
       social = [
         ["fa-twitter", "https://twitter.com/plzbeemyfriend"],
-        ["fa-github", "https://github.com/benjaminortizulloa"],
-#        ["fa-linkedin", "#"]
+        ["fa-github", "https://github.com/benjaminortizulloa"]
       ]
 
 
