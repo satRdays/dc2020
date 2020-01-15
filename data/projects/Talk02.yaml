@@ -1,9 +1,9 @@
 modalID: 2
-title: "Second Talk"
+title: "Closing Remarks"
 subtitle: "Second Subtitle"
 date: 1970-01-01
-startsAt: 00:01
-endsAt: 00:02
+startsAt: 16:40
+endsAt: 17:00
 img: roundicons.png
 preview: faceholder.png
 client: Speaker Two
