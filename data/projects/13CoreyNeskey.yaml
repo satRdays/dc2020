@@ -1,0 +1,21 @@
+modalID: 13
+title: "Corey Neskey"
+subtitle: ""
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: cneskey.jpg
+client: 
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Interested in performing principally security data analyses and quantitative risk assessments to inform executive decisions.
+<br><br>
+I have been providing analyses, architecting secure environments, and leading security program implementations in IT security and risk since 2011. My career started with solving problems and informing executive decision making with algebraic data analyses for explanation, simulation and attribution (i.e. data driven intelligence analysis, forensics, SOC and CIRT), and optimization (i.e. Monte Carlo simulation for risk assessment). My problem-solving toolset has expanded to more descriptive and predictive methods (i.e. machine learning/AI for risk assessment, vulnerability prioritization, and event correlation). I am now developing my capabilities to integrate each of those analytical areas and to expand beyond algebraic methods and static probability calculus into using Bayesian network models."
+abstractTitle: "Cybersecurity risk assessment with R "
+abstract: "unsuR: Risk assessment with R
+<br><br>
+Risk assessment is challenging when data is unavailable, hard to obtain, or costly to process. Organizations often request estimates from experts instead. I present my package unsuR for turning expert estimates into insights for stakeholders. unsuR facilitates estimate collection using GoogleSheets, simulates data using estimates as parameters, and derives probabilistic statements summarizing resulting distributions like 'There is a 60% chance of your company losing over $50,000 due to a data breach.' It also produces and automates risk assessment reports. unsuR can inform decisions like whether a $3 million per year next-generation firewall is 'worth it' considering preventable annual losses minus tangible costs like pricetag, along with intangibles like how the firewall inconveniences our data scientists whom the firewall unexpectedly blocked from reaching CRAN. Perhaps firewall options range $50-$6 million annually, or maybe finding engineers familiar with an obscure firewall technology adds another $50k in recruiting expenses, leaving us in a bad situation when they quit. Such considerations can and should be part of decision making processes; unsuR makes this possible.
+<br><br>
+To access the demo dashboard, visit https://cneskey.github.io/unsuR/unsuR_Report.html."
+talk: true

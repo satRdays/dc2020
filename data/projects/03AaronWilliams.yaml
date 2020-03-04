@@ -1,0 +1,17 @@
+modalID: 3
+title: "Aaron R. Williams"
+subtitle: "Data Scientist at Urban Institute"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: williams-aaron_headshot.jpg
+client: Data Scientist at Urban Institute
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Aaron R. Williams is a data scientist in the Income and Benefits Policy Center and Program on Retirement Policy at the Urban Institute, where he works on retirement policy, tax policy, microsimulation models, data imputation methods, and data visualization. He has worked on the Tax Policy Center's generation of synthetic tax data for the IRS, Urban's Dynamic Simulation of Income (DYNASIM) microsimulation model, and the Social Security Administration's Modeling Income in the Near Term (MINT) microsimulation model . Williams leads the Urban Institute's R Users Group and assists researchers across the institute with projects that use R for statistical analysis, data visualization, mapping, and automation.
+<br><br>
+In the evenings, Williams teaches Intro to Data Science in the McCourt School of Public Policy at Georgetown University and plays the saxophone. He holds a BS in economics and a BA in music from Virginia Commonwealth University."
+abstractTitle: "Iterating Branded Fact Sheets and Web Pages with R Markdown"
+abstract: "Whether it’s a mayor trying to tackle the opioid epidemic in California or a nationwide foundation trying to better understand how to serve varied communities, decisionmakers want information that will help them solve their problems. To inform policymakers at the state and local levels, the Urban Institute built a tool for iterating branded fact sheets and websites with R Markdown. With this tool, researchers can create a parameterized template that generates a PDF, html website, or plain text R Markdown document and then iterate that template over a data set with information at the state or county level. The template can contain text, images, tables, and figures and all elements can update based on the data passed to the parameters. This makes it super easy for researchers to distill exhaustive reports about many communities into fact sheets or websites with the relevant information for the individual communities where decisions are made. We will demonstrate how we used this tool in conjunction with R packages like urbnthemes, which makes ggplot2 visualizations meet the branding standard of the Urban Institute and urbnmapr, which can be used to quickly create state and county maps in R. Join us as we discuss the design and applications of the tool and demonstrate how it can be used by any organization to iterate branded and parameterized reports across geography, time, or any meaningful subset of data."
+talk: true

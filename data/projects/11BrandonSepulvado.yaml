@@ -1,0 +1,15 @@
+modalID: 11
+title: "Brandon Sepulvado"
+subtitle: "Data Scientist at NORC"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Data Scientist at NORC
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Brandon Sepulvado is a data scientist at NORC at the University of Chicago, where he uses R for text analysis/natural language processing in domains as varied as education, health, synthetic biology, and ethics. He has a Ph.D. in sociology from the University of Notre Dame."
+abstractTitle: "Analyzing Education Discourse with Topic Models"
+abstract: "From bullying to mentoring programs to post-secondary placement, discourse about education and education policy can be an invaluable source of insight for a variety of stakeholders, yet how does one sort through the massive amounts of text data on sites like Twitter and Facebook? Topic models are a popular unsupervised approach to solving such a task. In this talk, I use the stm package to introduce correlated topic models and structural topic models, and I focus in particular on the new types of questions that structural topic models are able to answer. We will identify through the course of this presentation both what people are saying when they post on social media about education and how their discourse differs by their position in the educational field. Although the substantive focus of this talk will be education, audience members, who may be relatively new users of R or experienced useRs who want to learn about text analysis, will walk away with knowledge of how to apply these models in a broad range of contexts."
+talk: true

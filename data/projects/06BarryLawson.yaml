@@ -1,0 +1,19 @@
+modalID: 6
+title: "Barry Lawson, Lary Leemis, Vadim Kudlay"
+subtitle: "Professor at University of Richmond, Professor at The College of William & Mary, and Student at University of Richmond"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Professor at University of Richmond, Professor at The College of William & Mary, and Student at University of Richmond
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Barry Lawson is Professor of Computer Science and Computer Science Coordinator at the University of Richmond.  He received Ph.D. and M.S. degrees in Computer Science from William & Mary, and a B.S. in Mathematics from UVA’s College at Wise.  His current research interests are in agent-based simulation and in STEM education.  He is a member of ACM and IEEE.
+<br> <br>
+Larry Leemis is Professor in the Department of Mathematics at The College of William & Mary.  He received B.S. and M.S. degrees in Mathematics and a Ph.D. in Industrial Engineering from Purdue University.  His interests are in reliability, simulation, and computational probability.  He is a member of ASA and INFORMS.
+<br> <br>
+Vadim Kudlay is an undergraduate student at the University of Richmond, majoring in Computer Science and in Mathematics."
+abstractTitle: "simEd: An R Package for Simulation Education"
+abstract: "This talk will discuss the 'SimEd' package for R, intended for use in an undergraduate or introductory graduate-level simulation course.   The package includes functions for generating discrete and continuous variates via inversion, with capabilities for independent streams and antithetic variates; for visualizing inversion in variate generation and the relationship to the pdf/pmf, cdf, and ecdf; for computing time-persistent statistics; for extensible single- and multiple-server queueing simulation; and includes data sets for input modeling and analysis.  We will also debut new additions coming soon to the R package, including detailed animation of an event-driven queuing simulation model, visualization of a multiplicative Lehmer random number generator, and visualization of various random variate generation techniques."
+talk: true

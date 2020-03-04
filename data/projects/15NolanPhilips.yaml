@@ -1,0 +1,15 @@
+modalID: 15
+title: "Nolan Phillips"
+subtitle: ""
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: Nolan_Phillips.jpg
+client: 
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: ""
+abstractTitle: "Constructing, Visualizing and Analyzing Networks using the SNA Package"
+abstract: "Networks provide the means to analyze relational phenomena, such as social influence or the spread of disease.  However, creating networks is no trivial manner and neither is providing a high-quality visual representation.  Using the SNA package, several ways to create networks (directed, undirected, and weighted) are first discussed.  Then, tips to generate readable images of networks (to avoid the hairball issues are shown) are reviewed, and finally, basic network analyses are delineated."
+talk: true

@@ -1,0 +1,15 @@
+modalID: 10
+title: "Samantha Tyner"
+subtitle: "Fellow at the Bureau of Labor Statistics"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: sam-headshot.jpg
+client: Fellow at the Bureau of Labor Statistics
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Samantha Tyner is a 2019-20 AAAS Science and Technology Policy Fellow at the Bureau of Labor Statistics in the Office of Survey Methods Research. Before moving to D.C., she completed a postdoc position in the Center for Statistics and Applications in Forensic Evidence at Iowa State University. She earned her Ph.D. in Statistics from ISU in 2017 advised by Heike Hofmann. She is interested in all things R, especially shiny & the tidyverse, and in reproducible & open research. Sam is also an active member of R-Ladies DC, and created an R users group for the AAAS STPF program."
+abstractTitle: "Shiny in the Government: A Brief Summary"
+abstract: "In the last two years, the R package shiny has averaged well over 10,000 downloads per day from the Comprehensive R Archive Network. The increasingly popular tool for creating interactive data applications in R is also being used more in government applications. Shiny is an attractive alternative to other tools such as Tableau due to its low relative cost. However, because R and shiny are open-source, there are security and data disclosure concerns when applying the software to government data. Due to the decentralized nature of federal agencies in the U.S., it is difficult to understand how software is applied across the government. In this talk, I will present preliminary results of a survey of shiny users in the U.S. federal government. The survey instrument captures the process of developing an application in shiny, from data acquisition to deployment. The survey also collects information about the processes underlying approval and development, including U.S. laws such as the Confidential Information Protection and Statistical Efficiency Act. The goals of this study are to document the process of using shiny and to understand how and why shiny is used in the U.S federal government."
+talk: true

@@ -1,0 +1,15 @@
+modalID: 14
+title: "Wendy Wong"
+subtitle: "Chief Data Scientist at Coherent Logic Limited"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: Wendy_Wong.jpeg
+client: Chief Data Scientist at Coherent Logic Limited
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Dr. Wendy Wong is the Chief Data Scientist at Coherent Logic Limited. She has a Ph.D. degree in Biological Statistics from Cornell University, where she developed statistical models to model the processes of molecular evolution using sequence data.   Dr. Wong has over 15 years of experience in international interdisciplinary research and has in-depth knowledge in statistics, computer science, and biology."
+abstractTitle: "Learning more from direct-to-consumer personal genome data"
+abstract: "Currently, there are dozens of companies that offer direct-to-consumer (DTC) genetic tests to the general public for various reports. Some of these DTC companies also provide customers with raw data. In this talk, I will go through my experience of analyzing my own genome using data from some of these companies. I will show how one can use R and other tools to perform custom analysis to learn more from their genome, such as their ancestry or predicted cancer predisposition. I will also present some simple ways to confirm that the data you received is indeed your own genome. Finally, because DTC genetic data came from Saliva, I will explain how you can use this data to find what you just ate and what oral microbiome you might have."
+talk: true

@@ -1,0 +1,15 @@
+modalID: 0
+title: "David Smith"
+subtitle: "Developer Advocate at Microsoft"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: Smith_David.jpg
+client: Developer Advocate at Microsoft
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "David Smith is a developer advocate at Microsoft, with a focus on data science and the R community. With a background in Statistics, he writes regularly about applications of R at the Revolutions blog (blog.revolutionanalytics.com), and is a co-author of “Introduction to R”, the R manual. He is one of the founding members of the R Consortium, where he serves on the board as Microsoft's representative. Follow David on Twitter as @revodavid."
+abstractTitle: "20 Years of R"
+abstract: "Version 1.0.0 of R was released to the world on February 29, 2000, and had already had a significant impact on statistical data analysis software even at that point. In this talk, I'll look back on the history of the R project: its predecessor, S; the open-source movement and its connection with R; its growth in academic and research communities; and its adoption by commercial enterprises."
+talk: true

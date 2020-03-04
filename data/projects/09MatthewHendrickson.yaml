@@ -1,0 +1,19 @@
+modalID: 9
+title: "Matthew Hendrickson"
+subtitle: ""
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: Matt.jpg
+client: 
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "I’m passionate about data, analytics, and research. I have over a decade of experience constructing research projects, analyzing data, and developing policies & strategies. I’ve developed and deployed analytics solutions for higher education and private industry to improve operations as well as increase marketing efficiency, recruitment, and retention. I developed and taught Data Mining to Masters students."
+abstractTitle: "An Introduction to rtweet - Getting & Analyzing Data from the Twitter API"
+abstract: "Do you use Twitter? If not, it’s a great place to get #rstats ideas (just follow the hashtag!). If you do - great! You already know your way around the place.
+<br> <br>
+Did you know you can also access Twitter through R? Not only can you actually Tweet from R, but you can get a ton of info through the API. Perhaps you want to get a pulse on what’s happening on Twitter? Perhaps search or even stream Tweets? Maybe you’re into geocoding and mapping? Or maybe you simply want to pull information about the users you follower or are following you? This is just the beginning. For example, pulling timeline data, there are 91 fields to explore!
+<br> <br>
+This talk will walk through some basic functionality of the rtweet package (https://rtweet.info/) and some of the cool things you can do with the data. I cannot cover all of the great things you can do with rtweet, but I aim to get you comfortable enough to try it yourself!"
+talk: true

@@ -1,0 +1,15 @@
+modalID: 1
+title: "Jessica Streeter"
+subtitle: "Data Scientist at Spring Health"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Data Scientist at Spring Health
+clientLink: "https://www.linkedin.com/in/jessica-streeter-9053a630/"
+category: Speaker
+description: "Jess is a Data Scientist at Spring Health, a mental health tech startup focusing on precision mental health care.  She has worked in the behavioral health space in a variety of capacities since 2005.  When she's not working in R, she's playing with her son, watching true crime documentaries with her wife, or choking her friends through the gentle art of jiu jitsu."
+abstractTitle: "Survival Analysis for Everyone!"
+abstract: "When people initially think of survival analysis, they usually think of terminal diseases and mortality. But it had much broader applications in the medical field. I'll be giving a brief overview of survival analysis, it's applications in a behavioral health managed care setting, and some tips on communicating these results to clinical teams."
+talk: true

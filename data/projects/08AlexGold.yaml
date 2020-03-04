@@ -1,0 +1,15 @@
+modalID: 8
+title: "Alex Gold"
+subtitle: "Solutions Engineer at RStudio"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Solutions Engineer at RStudio
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Alex is a Solutions Engineer at RStudio, where he helps organizations integrate R and RStudio into their data science teams. Before coming to RStudio he did data science for political campaigns and in federal consulting. He really, really loves talking about R."
+abstractTitle: "TBD"
+abstract: "TBD"
+talk: true

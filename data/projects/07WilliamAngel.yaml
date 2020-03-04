@@ -1,0 +1,19 @@
+modalID: 7
+title: "William Angel"
+subtitle: "Author of Virtual Power"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Author of Virtual Power
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "William Angel is the author of Virtual Power: The Future of Energy Flexibility, a Data Analyst at Knowledge to Practice, and helps organize the DC Data Visualization Meetup group. He has a BA in Philosophy from Georgetown University, where he studied bioethics, physics, and entrepreneurship. 
+<br> <br>
+William has a pet bearded dragon and enjoys DIY electronics, reading , strategy video games, and excessively long bike rides. "
+abstractTitle: "Visualizing The Duck Curve"
+abstract: "Renewable energy sources are destabilizing the electrical grid.
+<br><br>
+This talk will explore how the electrical grid needs to become more flexible to decrease carbon emissions, using ggplot2 and data visualization in R to look at electrical supply and demand forecasting.  "
+talk: true

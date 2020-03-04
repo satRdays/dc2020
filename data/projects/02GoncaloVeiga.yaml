@@ -1,0 +1,15 @@
+modalID: 2
+title: "Gonçalo Veiga"
+subtitle: "Data Analysis Instructor"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Data Analysis Instructor
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Gonçalo Veiga uses his skills as a psychologist and anthropologist to analyze cultural and behavioral phenomenon. He holds a Masters in Clinical Psychology by ISPA - Instituto Universitário, Lisbon, Portugal. He is also a data analysis instructor, teaching courses in the US and Canada as an independent contractor."
+abstractTitle: "Sentiment Analysis in R: which lexicon should I use for my data?"
+abstract: "Sentiment Analysis is a powerful technique that allows us to identify sentiment in text and is especially useful when you want to analyze large quantities of textual data. However, one of the major challenges of performing sentiment analysis that rely on existing dictionaries is deciding which lexicons to use and which ones to trust. For example, should we use the Bing lexicon to examine doctors’ notes or use the NRC lexicon to analyze financial news articles? Many lexicons have not been validated beyond the application for which they were created. So, how do you decide which one to apply to your data? <br><br>In this session, I will be drawing from my research on the application of sentiment analysis to psychotherapy sessions. I will show you how you can use inter-rater agreement measures to compare the performance of different lexicons to the combined ratings of human raters. By using this technique you will be able to assess which lexicon best suits your textual data."
+talk: true

@@ -1,0 +1,15 @@
+modalID: 5
+title: "Jessica Duncan"
+subtitle: "Data Analyst at Kaplan, Inc."
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Data Analyst at Kaplan, Inc.
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Jessica is a Data Analyst at Kaplan, Inc., a graduate teaching assistant at Northwestern University, and a prenatal yoga teacher. She earned a Master of Science in Data Science with an Analytics and Modeling Specialization from Northwestern in 2018 and continues as a teaching assistant for two courses: Applied Statistics in R and Business Leadership & Communications. Originally from Louisville, KY, she brought a deep affection for bourbon with her to Arlington, VA, where she's lived since 2015. She is an active animal welfare volunteer and believes the best part of the internet are the dog memes."
+abstractTitle: "R: Where the H*ck to Start"
+abstract: "Part pep talk and part practical how-to for new users of R, using h*ckin' cute doggos to rate different resources and tips."
+talk: true

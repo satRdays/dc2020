@@ -1,0 +1,15 @@
+modalID: 12
+title: "Tiger Tang"
+subtitle: "Data Scientist at CARFAX"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: faceholder.png
+client: Data Scientist at CARFAX
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Tiger(Chongtai) Tang is a Data Scientist at CARFAX, dedicated to building the Data Science community at CARFAX. He designed and delivered customized R trainings to developers and data analysts and initiated an automation project with R and Shiny that saves over 1200 hours at CARFAX. Tiger is a big fan of Shiny, besides earning an honorable mention from the 1st Shiny contest, he has won CARFAX Hackathon Championships multiple times with Shiny apps. Tiger holds a master degree in Marketing Analytics and prior to that he was a professional in Public Speaking and a lecturer at New Oriental Education Company in China."
+abstractTitle: "TBD"
+abstract: "TBD"
+talk: true

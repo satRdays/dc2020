@@ -1,0 +1,15 @@
+modalID: 4
+title: "Lee De Cola"
+subtitle: "Principal at DATA to Insight"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: leedecola.jpg
+client: Principal at DATA to Insight
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "I run DATA to Insight, a data visualization consulting and training enterprise. In 2010 I retired after 21 years as a research scientist at the U.S. Geological Survey in Reston Virginia, where I used GIS and applied statistics to understand landscape dynamics and the health of regions and their inhabitants. I have published on such topics as land cover and urban systems complexity, spatial forecasting for public health, fractals in geography, and urbanization in Africa. I currently teach at University of Maryland Baltimore County and have taught at various universities in the national capital region as well as Nigeria, Vermont, West Virginia, and Southern California."
+abstractTitle: "Using R to visualize Global Data"
+abstract: "We use the basic statistical and temporal functions of R to explore six yearly time series that characterize key global changes since 1950, a period sometimes called the Great Acceleration. The research illustrates how linear regression, differencing, autocorrelation, and naïve forecasting provide most of the key descriptive information about these data. We also look at interactions among the series and results from nonlinear estimation. Widespread understanding of these data is of surpassing importance to the future welfare of life on Earth. The data are at ldecola.net/projects/global/global.csv"
+talk: true
