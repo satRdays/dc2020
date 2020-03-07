@@ -1,0 +1,15 @@
+modalID: 16
+title: "Adam Hughes"
+subtitle: "Associate Director of Pew Data Labs"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: Hughes_Adam.jpg
+client: Associate Director of Pew Data Labss
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Adam Hughes is associate director of Data Labs at Pew Research Center. He is an applied computational social scientist focused on communication, behavior and public opinion. Hughes received his Ph.D. in government from the University of Virginia, where he used natural language processing, survey experiments and television broadcast data to measure how political communication shapes voting behavior and attitudes. He has coauthored research that uses computer vision to understand gender in online images; work that applies natural language processing to measure partisan conflict and information sharing among elected officials; and work that combines survey and social media data to better understand behavior online."
+abstractTitle: "Linking Survey Data with Social Media"
+abstract: "Adam Hughes, Associate Director of the Data Labs team at Pew Research Center, will discuss how his team uses R to analyze social media posts from elected officials and ordinary Americans. He will discuss the advantages of R for visualizing patterns and analyzing survey data linked with social media posts."
+talk: true

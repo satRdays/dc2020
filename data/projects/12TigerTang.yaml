@@ -5,11 +5,11 @@ date: 1970-01-01
 startsAt: 14:15
 endsAt: 14:35
 img: roundicons.png
-preview: faceholder.png
+preview: Tiger Tang.JPG
 client: Data Scientist at CARFAX
 clientLink: "www.linkedin.com/in/goncalomveiga"
 category: Speaker
 description: "Tiger(Chongtai) Tang is a Data Scientist at CARFAX, dedicated to building the Data Science community at CARFAX. He designed and delivered customized R trainings to developers and data analysts and initiated an automation project with R and Shiny that saves over 1200 hours at CARFAX. Tiger is a big fan of Shiny, besides earning an honorable mention from the 1st Shiny contest, he has won CARFAX Hackathon Championships multiple times with Shiny apps. Tiger holds a master degree in Marketing Analytics and prior to that he was a professional in Public Speaking and a lecturer at New Oriental Education Company in China."
-abstractTitle: "TBD"
-abstract: "TBD"
+abstractTitle: "Saving 1000 hours with R"
+abstract: "Imagine going into the office and all your daily, weekly or monthly reports that used to take you hours have been generated for your review; Imagine internal customers no longer need to wait for your data department to pull data or create data reports. With RStudio in place, you no longer need to imagine that. At CARFAX, we switched our analysis tool from SAS to R a couple of years ago. I have initiated an Automation project at CARFAX that saved over 1200 work hours. In this talk, I will talk about the project, the lessons learned and the sustainable workflow."
 talk: true

@@ -1,10 +1,8 @@
-#img = "faceholder.png"
-#name = "Speaker Name 01"
-#organisation = "Company 1"
-#role = "Role 1"
-#social = [
-#        ["fa-twitter", "#"],
-#        ["fa-github", "#"],
-#        ["fa-linkedin", "#"],
-#        ["fa-globe", "#"]
-#      ]
+img = "O_Briant_Kelly_resized.jpg"
+name = "Kelly O'Briant"
+organisation = "Co-organizer [R-Ladies DC](https://twitter.com/RLadiesDC)"
+role = ""
+social = [
+        ["fa-twitter", "https://twitter.com/kellrstats"],
+        ["fa-github", "https://github.com/kellobri"]
+     ]
