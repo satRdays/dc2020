@@ -5,11 +5,11 @@ date: 1970-01-01
 startsAt: 14:15
 endsAt: 14:35
 img: roundicons.png
-preview: faceholder.png
+preview: alexgold.png
 client: Solutions Engineer at RStudio
 clientLink: "www.linkedin.com/in/goncalomveiga"
 category: Speaker
 description: "Alex is a Solutions Engineer at RStudio, where he helps organizations integrate R and RStudio into their data science teams. Before coming to RStudio he did data science for political campaigns and in federal consulting. He really, really loves talking about R."
-abstractTitle: "TBD"
-abstract: "TBD"
+abstractTitle: "Dear Shiny, It's Time to Break Up"
+abstract: "People get really excited about building Shiny apps that can do EVERYTHING. But monolithic Shiny apps can be really hard to debug, maintain, or change later. In this talk, you'll learn about some ideas to split up big Shiny apps, including Shiny modules, the R6 package, creating an R package, and more."
 talk: true
