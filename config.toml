@@ -141,8 +141,8 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # include botht the account and event in a string, seperated by /, with no spaces
 
   [params.eventbrite]
-    enable = false
-    title = "Register"
+    enable = true
+    title = "Zoom Conference"
     bg = true
     eid = "89940092237" 
       # Go to https://www.eventbrite.co.uk/support/articles/en_US/How_To/how-to-sell-eventbrite-tickets-registrations-on-your-website-using-embeddable-widgets?lg=en_GB 
@@ -153,7 +153,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   [params.tickettailor]
     enable = false
     title = "Register"
-    bg = true
+    bg = false
     eventviewid = "162430"
       # Go to www.tickettailor.com and open your event page
       # Note the number at the end of the url e.g. https://www.tickettailor.com/event/view/id/162430
@@ -191,7 +191,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     # For more informtion take a look at the README.
     title = "Speakers"
     subtitle = ""
-    bg = true
+    bg = false
 
     [params.portfolio.modal]
       client = "Client"
@@ -207,7 +207,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Important Dates [About] section
   [params.about]
-    enable = true
+    enable = false
     title = "Important Dates"
     subtitle = "Be prepared!"
     endpoint = "Conference"
