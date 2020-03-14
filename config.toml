@@ -141,7 +141,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
       # include botht the account and event in a string, seperated by /, with no spaces
 
   [params.eventbrite]
-    enable = true
+    enable = false
     title = "Register"
     bg = true
     eid = "89940092237" 
@@ -161,7 +161,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Call for papers section
   [params.callforpapers]
-    enable = true
+    enable = false
     title = "Call For Talks"
     bg = false
     CfSpage = "/satrdays-dc-2020"
