@@ -1,0 +1,15 @@
+modalID: 17
+title: "Daniel Chen"
+subtitle: "Associate Director of Pew Data Labs"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: danchen.jpg
+client: Associate Director of Pew Data Labss
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Daniel is a PhD student at Virginia Tech (VT) in Genetics, Bioinformatics, and Computational Biology (GBCB) studying data science education in medicine, biomedical and health sciences. He does a lot of training in Python, R, and Git, and is the author of 'Pandas for Everyone'.<br>He enjoys photography, curling, snowboarding, and scuba diving into caves. And has recently joined a makerspace in Blacksburg."
+abstractTitle: "Grading Code with `gradethis`"
+abstract: "I was lucky to be selected as one of the summer 2019 inters for RStudio. I worked on the `gradethis` package, which aimed to grade code in a `learnr` document. The real magic of the package isn’t just reporting a correct or incorrect answer, it’s the ability to provide meaningful feedback to the learner. For example: 'I expected a call to `log` where you put `exp`, next time's the charm!'<br>In the process, I developed a lot of skills that turned me from a mere user of R to a developer. This talk will cover the basics of the `gradethis` package, how you might go about using it in a `learnr` document or in a self-contained nature, and then I'll go over some of the things I learned during my internship (expressions, tidyeval, robust code, documentation templates) with some of the code within the package."
+talk: true
