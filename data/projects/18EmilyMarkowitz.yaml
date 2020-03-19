@@ -1,0 +1,15 @@
+modalID: 18
+title: "Emily Markowitz"
+subtitle: "Environmental Policy Analyst"
+date: 1970-01-01
+startsAt: 14:15
+endsAt: 14:35
+img: roundicons.png
+preview: EmilyMarkowitz.jpg
+client: Environmental Policy Analyst
+clientLink: "www.linkedin.com/in/goncalomveiga"
+category: Speaker
+description: "Emily Markowitz is a contractor supporting the NOAA Fisheries Office of Science and Technology in the Economics and Social Analysis Division in Silver Spring, Maryland. Currently, she is responsible for re-coding, developing, and writing the Fisheries Economics of the United States Report. Em is also developing a few applications that can be used by fisheries scientists, managers, and the public alike to process data and assist in regulatory decision making. She was a 2018 Sea Grant Knauss Marine Policy Fellow and facilitated science for protected species across fisheries science centers and academics around the country. For her master's work, Em modeled environmentally and climate change-driven distributional shifts in migrating, bottom-dwelling fish species on the Northeast coastline of the United States. Follow Em on her science-oriented Twitter (@EmilyHMarkowitz), Instagram (@EmilyMarkowitz), or on her [GitHub](https://emilyhmarkowitz.github.io/emilyhmarkowitz/) page."
+abstractTitle: "Reproducible National-Level Reports: Using RMarkdown to Recode the Fisheries Economics of the United States Report"
+abstract: "Contractor, ECS Federal in support of NOAA Fisheries Office of Science and Technology, Economics & Social Analysis Division, SSMC 3, 1315 East-West Highway, Office 12336, Silver Spring, MD 20910  National Oceanic Atmospheric Administration (NOAA) Fisheries Service produces the annual Fisheries Economics of the United States report. This report provides a detailed snapshot of the economic employment, sales, and value-added impacts and context for commercial and recreational fisheries and other marine-related sectors on a state, regional, and national basis.  In an effort to modernize the production of this data and analysis-intensive report, we have restructured production using reproducible and dynamic R Markdown files, R projects, version control management via GitHub, content-normalizing R functions, direct server and online data download connections, and systematic output file organization. In addition, the R scripts now output a variety of files that aid in the report publication process: CSV files for subject matter experts and collaborators to review and use, copy-edit ready Microsoft Word documents for editors, style guide-formatted and flow-in ready text, tables, and figures for graphic designers, and web-ready JavaScript data files for online tool developers. This effort has been invaluable to the future production of the report as it has centralized back-end data analyses, efficiently streamlined the copy-edit and design sub-processes, and maximized results usefulness for other products."
+talk: true
