@@ -201,7 +201,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
   # Schedule section
   [params.schedule]
-    enable = false
+    enable = true
     title = "Schedule"
     bg = false
 
@@ -241,7 +241,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   
   # Location section
   [params.location]
-    enable = true
+    enable = false
     title = "Location title"
     bg = true
     iframesrc = "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3105.1149064660785!2d-77.05164598464958!3d38.89848757957053!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b7b1c03df189%3A0xf75404628c052d5f!2sNorma%20Lee%20and%20Morton%20Funger%20Hall!5e0!3m2!1sen!2sus!4v1579060914225!5m2!1sen!2sus"
